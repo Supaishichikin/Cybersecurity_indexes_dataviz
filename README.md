@@ -9,7 +9,12 @@
 
 Copy the `backend/example.env` file to `backend/.env` and set the variables:
 
-- MAIL_PASSWORD
+- POSTGRES_HOST
+- POSTGRES_USER
+- POSTGRES_PASSWORD
+- POSTGRES_PORT
+- POSTGRES_DB
+- DATABASE_URL
 
 ## Frontend set up
 
