@@ -27,7 +27,7 @@ $ docker-compose up
 
 Get `localhost:8080` for the front.
 
-Get `localhost:5000` or `localhost:8080/api` for the back.
+Get `localhost:5000` or `localhost:8080/api/` for the back.
 
 ## Technology used
 ###  Backend
